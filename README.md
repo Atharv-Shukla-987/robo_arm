@@ -32,5 +32,5 @@ Parts - Links
 <br>
 3 x Flex Sensor - https://www.amazon.in/TESTIN-ELECTRONICS-Robotics-Breadboard-Connectors/dp/B0FZ5RLCSS?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1LULBHI7A07S5
 <br>
-2 x MPU6050 (Accelerometer) - https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ?dchild=1&keywords=MPU6050&qid=1608903853&sr=8-3&linkCode=sl1&tag=aram1-20&linkId=342948a9567a1f8664324e0855e7cd77&language=en_US&th=1 
+MPU6050 (Accelerometer) - https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ?
 <br>
