@@ -34,3 +34,18 @@ Parts - Links
 <br>
 MPU6050 (Accelerometer) - https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ?
 <br>
+Arduino Nano - https://store.arduino.cc/products/arduino-nano
+<br>
+3 x Resistors (10K) - https://www.amazon.in/10K-ohm-Watt-Resistor-Tolerance/dp/B09VH1K4GW
+<br>
+Resistors (220R) - https://harishprojects.com/products/220r-resistor-1-4w?variant=45673682075826&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
+<br>
+9V Battery - https://www.amazon.in/Eveready-9-Volt-eveready-Battery/dp/B07Y348F5D?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3JJCP2CFGNMJ6
+<br>
+Battery clip - https://harishprojects.com/products/9v-battery-clip-connector-buy-50-get-5-free?variant=44431177351346&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
+<br> 
+3 x Capacitor (100nF) - https://kitsguru.com/products/100nf-50v-monolithic-ceramic-capacitor-104-100pcs
+<br>
+Arduino HC-05 - https://www.amazon.in/DS-Robotics-Transceiver-Integrated-Communication/dp/B087C39X6D
+<br>
+Braided Cable Sleeve - https://robu.in/product/nylon-8mm-expandable-braided-sleeve-for-wire-protection-2m-length/
